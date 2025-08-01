@@ -49,4 +49,4 @@ Hotel-Reservation-Analysis/
 
 **Afia Basri**  
 _Data Analyst | Python Enthusiast | Dashboard Developer_  
-[💼 Fiverr Profile](#) • [🌐 Portfolio Website](#) • [📧 Contact](#)
+
