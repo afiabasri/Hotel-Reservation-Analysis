@@ -49,8 +49,8 @@ Hotel-Reservation-Analysis/
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
-
+![Dashboard Screenshot]([images/dashboard.png](https://github.com/afiabasri/Hotel-Reservation-Analysis/blob/main/hotel%201.png))
+![Dashboard Screenshot]([images/dashboard.png](https://github.com/afiabasri/Hotel-Reservation-Analysis/blob/main/hotel%201.png))
 
 ## 👩‍💻 Author
 
