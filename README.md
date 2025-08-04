@@ -45,6 +45,13 @@ Hotel-Reservation-Analysis/
 ├── hotel_report.pdf # Exported PDF report
 ├── README.md # Project documentation
 
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](images/dashboard.png)
+
+
 ## 👩‍💻 Author
 
 **Afia Basri**  
